@@ -198,7 +198,7 @@ def start(update: Update, context: CallbackContext):
                      [
                          InlineKeyboardButton(
                              text="Find a boyfriend",
-                             url="https://t.me/blue_script")
+                             url="https://t.me/GodFatherMob")
                      ]]))
     else:
         update.effective_message.reply_text(
